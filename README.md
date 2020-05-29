@@ -5,6 +5,21 @@
   This unit teaches server side scripting using php. DFTI(Developing For The Internet) is all about taking it beyond simple, static HTML web pages to interactive, dynamic websites which interact with the user.
 </blockquote>
 
+
+## Neptune Login
+We will be using the Neptune web server for many of the lab exercises. **Note that this login also works on Edward2**
+```
+username: ephp021
+password: ieghuora
+```
+
+## Lecture Notes and Worksheets
+Using the edward2 site you can find links to each topic's lecture notes and worksheet questions:  
+[https://edward2.solent.ac.uk/](https://edward2.solent.ac.uk/)
+
+Alternatively there is a backup site:  
+[http://www.free-map.org.uk/course/](http://www.free-map.org.uk/course/)
+
 ## Assessments
 
 This unit will utilise two assessments, each contributing an equal 50% towards your final grade.
