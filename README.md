@@ -5,6 +5,17 @@
   This unit teaches server side scripting using php. DFTI(Developing For The Internet) is all about taking it beyond simple, static HTML web pages to interactive, dynamic websites which interact with the user.
 </blockquote>
 
+## Sessions
+1. [Clients & Servers](https://github.com/Callum-Ilett/DFTI/tree/week-1)
+2. [Introduction to PHP](https://github.com/Callum-Ilett/DFTI/tree/week-2)
+3. [Connecting to a database](https://github.com/Callum-Ilett/DFTI/tree/week-3)
+4. [Query strings and Hidden Fields](https://github.com/Callum-Ilett/DFTI/tree/week-4)
+5. [Session-based login systems](https://github.com/Callum-Ilett/DFTI/tree/week-5)
+6. [Introduction to web security](https://github.com/Callum-Ilett/DFTI/tree/week-6)
+7. [Object Oriented PHP](https://github.com/Callum-Ilett/DFTI/tree/week-7)
+8. [Introduction to Slim](https://github.com/Callum-Ilett/DFTI/tree/week-8)
+9. [AJAX](https://github.com/Callum-Ilett/DFTI/tree/week-9)
+10. [JSON and Web Services](https://github.com/Callum-Ilett/DFTI/tree/week-10)  
 
 ## Neptune Login
 We will be using the Neptune web server for many of the lab exercises. **Note that this login also works on Edward2**
