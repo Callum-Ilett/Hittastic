@@ -22,7 +22,7 @@ function getBalance(){
     $u = $_SESSION["username"];
 
     $results = $connection->prepare("SELECT * FROM ht_users WHERE username = ?");
-    $results->execute($u);
+    $results->execute([$u]);
     
     $userDetails = $results->fetch();
 
